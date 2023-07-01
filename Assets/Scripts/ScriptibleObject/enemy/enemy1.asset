@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82f5a7f564d335242909516eb3ba6d56, type: 3}
+  m_Name: enemy1
+  m_EditorClassIdentifier: 
+  enemy: {fileID: 66853726740139937, guid: 43df29e60904d94488af5e605284d7e6, type: 3}
+  damage: 50
+  health: 200
+  attackSpeed: 15
